@@ -68,12 +68,3 @@ product-review-sentiment-analysis/
 └── 1429_1.csv
     
 ```
-
-
-- etc
-
----
-
-<p align="center">
-  Made with ❤️ by Satvik Sangamkar
-</p>
