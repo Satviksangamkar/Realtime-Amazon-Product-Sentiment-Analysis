@@ -75,5 +75,5 @@ product-review-sentiment-analysis/
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Satvik Sangamkar
 </p>
