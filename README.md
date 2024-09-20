@@ -1,4 +1,4 @@
-#  Realtime Amazon Product Sentiment Anylysis
+#  Realtime Amazon Product Sentiment Analysis
 
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-blue?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge&logo=scikit-learn)
